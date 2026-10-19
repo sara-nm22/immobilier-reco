@@ -37,7 +37,7 @@ Projet réalisé dans le cadre du module **NoSQL**.
 ## Installation
 
 ```bash
-git clone https://github.com/VOTRE-NOM/immobilier-reco.git
+git clone https://github.com/sara-nm22/immobilier-reco.git
 cd immobilier-reco
 
 composer install
